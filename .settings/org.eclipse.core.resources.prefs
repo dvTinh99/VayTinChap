@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/controller/admin/AdminInterface.java=UTF-8
+encoding//src/controller/admin/DanhSachCongTyServlet.java=UTF-8
+encoding//src/controller/admin/DanhSachHoSoServlet.java=UTF-8
+encoding//src/controller/admin/HoSoChiTiet.java=UTF-8
+encoding//src/controller/admin/ThemCongTyServlet.java=UTF-8
+encoding//src/controller/admin/ThemKhachHangServlet.java=UTF-8
+encoding//src/controller/cv/CVInterfaceServlet.java=UTF-8
+encoding//src/controller/cv/HoSoThamDinhCVServlet.java=UTF-8
+encoding//src/controller/fv/FVInterfaceServlet.java=UTF-8
+encoding//src/controller/fv/HoSoThamDinhFVServlet.java=UTF-8
+encoding//src/controller/iv/HoSoThamDinhIVServlet.java=UTF-8
+encoding//src/controller/iv/IVInterfaceServlet.java=UTF-8
+encoding//src/controller/ro/HoSoThamDinhROServlet.java=UTF-8
+encoding//src/controller/ro/ROInterfaceServlet.java=UTF-8
+encoding//src/controller/sale/HomeSaleServlet.java=UTF-8
+encoding//src/controller/sale/ThongTinKhachHangServlet.java=UTF-8
